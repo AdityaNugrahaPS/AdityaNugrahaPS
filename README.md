@@ -39,4 +39,4 @@ I'm a passionate student focused on web development, eager to grow my skills in 
 
 ---
 
-⭐️ From [Aditya Nugraha Pratama Saiya]
+⭐️ From Aditya Nugraha Pratama Saiya
