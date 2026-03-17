@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 💫 Aditya Nugraha Pratama Saiya
 Informatics Engineering student at Universitas Riau 🎓<br>Focusing on visual intelligent computing 👁️💻<br><br>Really into AI & machine learning 🤖<br>Love exploring new tech and building impactful stuff 🚀<br>Also enjoy sharing what I learn along the way ✨<br>
 
 ## 🌐 Socials:
