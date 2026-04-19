@@ -41,13 +41,6 @@
 
 ###
 
-<!-- 🏆 TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaNugrahaPS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-###
-
 <!-- 📈 ACTIVITY GRAPH -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaNugrahaPS&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
