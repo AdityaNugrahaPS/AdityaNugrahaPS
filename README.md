@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/AdityaNugrahaPS/AdityaNugrahaPS/main/github-header-banner.png" alt="Banner" style="width:100%;max-width:900px;display:block;margin:auto;" />
 
-<h5 align="left">Informatics Engineering student at Universitas Riau 🎓<br>Focusing on visual intelligent computing 👁️💻<br><br>Really into AI & machine learning 🤖<br>Love exploring new tech and building impactful stuff 🚀<br>Also enjoy sharing what I learn along the way ✨</h5>
+<h5 align="left">
+AI Engineer focused on Machine Learning and Intelligent Systems<br>
+Building AI solutions and exploring emerging technologies
+</h5>
 
 ###
 
